@@ -9,17 +9,17 @@ Each poster matches the pirate adventure theme and was used across different sta
 
 | Poster | Description |
 |:------|:------------|
-| ![Poster 2](poster2.png) | **Teaser Poster** – Hinted at the upcoming treasure hunt and the mysteries involved. |
-| ![Poster 1](poster1.png) | **Main Event Announcement** – Introduced the pirate theme and opened registrations. |
-| ![Poster 3](poster3.png) | **With Hunt Poster** – Setup Bounty money to be used later during the event. |
-| ![Poster 4](poster4.png) | **Playboy-magazine style JackSparrow poster** – Background for the Witch`s lair. |
-| ![Poster 5](poster5.png) | **Booty Quarterly** – Custom Magazine Cover Page for witch`s table. |
+| ![Poster 2](TreasureMap.png) | **Teaser Poster** – Hinted at the upcoming treasure hunt and the mysteries involved. |
+| ![Poster 1](Registrations.png) | **Main Event Announcement** – Introduced the pirate theme and opened registrations. |
+| ![Poster 3](WitchHuntPoster.png) | **With Hunt Poster** – Announced bounty rewards that players could earn and use later during the event. |
+| ![Poster 4](JackSparrowPlayboy.png) | **Playboy-magazine style JackSparrow poster** – A playful, magazine-style poster set up as part of the Witch’s Lair backdrop. |
+| ![Poster 5](BootyQuarterly.png) | **Booty Quarterly** – A custom-designed pirate magazine cover, used as a prop for the Witch’s table environment. |
 
 ---
 
 ## 🎨 Credits
 
-- **Design and Graphics:** Anurag Rai, with creative insights and help from ChatGPT
+- **Design and Graphics:** Self, with creative insights and help from ChatGPT
 - **Tools Used:** Canva / Photoroom/ Adobe
 
 ---
